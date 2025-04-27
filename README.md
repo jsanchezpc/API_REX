@@ -20,7 +20,6 @@ Perfect for building AI-enhanced applications with a solid foundation for authen
 ## ✨ Features
 
 - 🔐 **Secure Authentication**: JWT-based user authentication system
-- 📚 **Book Model**: Ready-to-use data model for book-related applications
 - 🧠 **AI Integration**: Built-in Ollama-powered AI agent
 - 🔄 **RESTful API**: Clean and intuitive API endpoints
 - 🛡️ **CORS Protection**: Configured security for cross-origin requests
